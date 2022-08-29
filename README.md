@@ -9,7 +9,7 @@ mills2aj@mail.uc.edu | (513)-704-9395 <br/>
 84.51 - Software Engineering Co-op (4 Semesters) <br/>
 AUGUST 2020 - DECEMBER 2020, MAY 2021 - AUGUST 2021, JANUARY 2022 - AUGUST 2022 <br/>
 - Learned and applied fullstack web development skills by working on frontend, backend, and database projects.
-- Created reactive, event-driven, single-state frontend code sing NgRx and RxJs.
+- Created reactive, event-driven, stateful frontend code sing NgRx and RxJs.
 - Contributed to the development of the 84.51 Health app, 84.51 EDNA application, and 84.51 Prism application.
 
 Next Mobility Lab,  University of Cincinnati - Research Assistant <br/>
