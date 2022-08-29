@@ -1,8 +1,8 @@
 # **Alex Mills**
-### University of Cincinnati, Bachelor of Science: Computer Science,
-### Class of 2023.
-### President of ACM-W Student Chapter, 2022-2023.
-mills2aj@mail.uc.edu (513)-704-9395
+University of Cincinnati
+Bachelor of Science: Computer Science | Class of 2023.
+President of ACM-W Student Chapter
+mills2aj@mail.uc.edu | (513)-704-9395
 
 
 ### **EXPERIENCE**
