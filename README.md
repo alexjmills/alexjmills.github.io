@@ -6,13 +6,13 @@ mills2aj@mail.uc.edu | (513)-704-9395 <br/>
 
 
 ### **EXPERIENCE**
-84.51 - Software Engineering Co-op (4 Semesters)
-AUGUST 2020 - DECEMBER 2020, MAY 2021 - AUGUST 2021, JANUARY 2022 - AUGUST 2022
+84.51 - Software Engineering Co-op (4 Semesters) <br/>
+AUGUST 2020 - DECEMBER 2020, MAY 2021 - AUGUST 2021, JANUARY 2022 - AUGUST 2022 <br/>
 Learned and applied fullstack web development skills by working on frontend, backend, and database projects.
 Contributed to the development of the 84.51 Health app, 84.51 EDNA application, and 84.51 Prism application.
 
-Next Mobility Lab,  University of Cincinnati - Research Assistant
-DECEMBER 2019 - AUGUST 2020
+Next Mobility Lab,  University of Cincinnati - Research Assistant <br/>
+DECEMBER 2019 - AUGUST 2020 <br/>
 Developed automated vehicle platform using CARLA and Python API
 Applied and tested self-driving algorithms, concepts, and traffic scenarios using CARLA simulation
 Responsible for automated driving simulator development, testing, and maintenance
